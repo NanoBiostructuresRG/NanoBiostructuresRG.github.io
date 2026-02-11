@@ -16,13 +16,14 @@
 title: Nano]°[Biostructures Research Group
 email: contreras.flavio@tec.mx
 description: >- # this means to ignore newlines until "baseurl:"
-  Research group website and project portfolio.
-  Copyright 2025 by Flavio F. Contreras-Torres. Published by Tecnologico de Monterrey.
+  Research group website and project portfolio
+  Copyright 2025 by Flavio F. Contreras-Torres
+  Published by Tecnologico de Monterrey
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sites.google.com/tec.mx/nanobiostructures" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  nanobiostructuresrg
-#logo: /assets/logo.jpeg
+
 
 # Build settings
 markdown: kramdown
