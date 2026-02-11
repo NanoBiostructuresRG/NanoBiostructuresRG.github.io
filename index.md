@@ -16,4 +16,4 @@ Welcome. This site showcases the computational projects, tools, and scientific o
 - [NumPy Tutorial](https://github.com/NanoBiostructuresRG/NumpyTutorial) — An introductory tutorial to NumPy covering linear algebra, testing, and debugging in Python.
 
 
-Visit our website at [NanoBiostructuresRG](https://sites.google.com/tec.mx/nanobiostructures).
+Visit our website at [NanoBiostructuresRG](https://sites.google.com/tec.mx/nanobiostructures)
