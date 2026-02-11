@@ -3,7 +3,7 @@
 <!--This line is commented-->
 <img src="assets/logo-adobe.png" alt="logo" style="float: right; width: 160px; margin-left: 20px;">
 
-Welcome. This site showcases our projects, tools, and research outputs.
+Welcome. This site showcases the computational projects, tools, and research outputs developed by our research group, with a focus on molecular data analysis, cheminformatics, and machine learning.
 
 ## Projects
 - **MOLRAPTOR** — A modular pipeline for molecular data curation and fingerprint encoding.
@@ -11,6 +11,6 @@ Welcome. This site showcases our projects, tools, and research outputs.
 - **CHAMANP** — Curation and hierarchical analysis for molecular annotation of natural products.
 
 ## Tutorials
-- **NumPy Tutorial** — An introductory tutorial to NumPy covering linear algebra, testing, and debugging in Python.
+- [**NumPy Tutorial**](https://github.com/NanoBiostructuresRG/NumpyTutorial) — An introductory tutorial to NumPy covering linear algebra, testing, and debugging in Python.
 
-Please link to our website at [NanoBiostructuresRG](https://sites.google.com/tec.mx/nanobiostructures).
+Visit our website at [NanoBiostructuresRG](https://sites.google.com/tec.mx/nanobiostructures).
