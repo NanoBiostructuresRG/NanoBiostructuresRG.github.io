@@ -1,6 +1,9 @@
 ---
 ---
+<!--
 ![logo](assets/logo.jpeg){:style="float: right"}
+-->
+<img src="assets/logo.jpeg" alt="logo" style="float: right; width: 160px; margin-left: 20px;">
 
 Welcome. This site hosts our projects, tools, and research outputs.
 
