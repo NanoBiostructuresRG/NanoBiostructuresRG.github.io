@@ -7,9 +7,9 @@ Welcome. This site showcases the computational projects, tools, and scientific o
 
 
 ## Projects
-- **MOLRAPTOR** — A modular pipeline for molecular data curation and fingerprint encoding.
-- **MOSAIC** — A lightweight benchmarking toolkit for tabular classification and model selection.
-- **CHAMANP** — Curation and hierarchical analysis for molecular annotation of natural products.
+- **MOLRAPTOR** — A modular pipeline for fetching, curating, and encoding molecular datasets into machine-learning-ready fingerprints.
+- **MOSAIC** — A lightweight machine learning benchmarking toolkit for classification and model selection on tabular data.
+- **CHAMANP** — A modular framework for curating and hierarchically organizing natural product molecular datasets.
 
 
 ## Tutorials
