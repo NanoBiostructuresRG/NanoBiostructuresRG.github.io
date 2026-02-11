@@ -1,4 +1,6 @@
 title: NanoBiostructuresRG
-description: Research group website and project portfolio
-theme: jekyll-theme-minimal
 logo: /assets/logo.jpeg
+description: Research group website and project portfolio
+show_downloads: true
+theme: jekyll-theme-minimal
+
