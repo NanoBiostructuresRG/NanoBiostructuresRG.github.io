@@ -1,4 +1,4 @@
-# NanoBiostructuresRG
+# Nano]°[Biostructures Research Group
 
 Welcome. This site hosts our projects, tools, and research outputs.
 
@@ -7,4 +7,4 @@ Welcome. This site hosts our projects, tools, and research outputs.
 - **CHAMANP** — Open-source curation and hierarchical analysis for molecular annotation of natural products.
 
 ## Links
-- GitHub Organization: https://github.com/NanoBiostructuresRG
+- Website: https://sites.google.com/tec.mx/nanobiostructures
