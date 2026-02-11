@@ -1,7 +1,7 @@
 ---
 ---
 <!--This line is commented-->
-<img src="assets/logo.jpeg" alt="logo" style="float: right; width: 160px; margin-left: 20px;">
+<img src="assets/logo-adobe.png" alt="logo" style="float: right; width: 160px; margin-left: 20px;">
 
 Welcome. This site showcases our projects, tools, and research outputs.
 
