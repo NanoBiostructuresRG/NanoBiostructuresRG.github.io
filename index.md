@@ -3,7 +3,7 @@
 <!--This line is commented-->
 <img src="assets/logo-adobe.png" alt="logo" style="float: right; width: 160px; margin-left: 20px;">
 
-Welcome. This site showcases the computational projects, tools, and scientific outputs developed by our group, with a focus on molecular data analysis, cheminformatics, and machine learning for the study of metabolic diseases.
+Welcome. This site showcases the computational projects and tools developed by our group for data-driven molecular discovery in metabolic diseases.
 
 
 ## Projects
