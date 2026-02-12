@@ -14,7 +14,7 @@ Welcome. This site showcases the computational projects, tools, and scientific o
 
 ## Tutorials
 - [NumPy Tutorial](https://github.com/NanoBiostructuresRG/NumpyTutorial) — An introductory tutorial to NumPy covering linear algebra, testing, and debugging code in Python.
-- [Autodock Tutorial](https://github.com/NanoBiostructuresRG/AutodockTutorial) — An introductory tutorial to AutoDock Vina covering the basics of molecular docking and result analysis.
+- [AutoDock Tutorial](https://github.com/NanoBiostructuresRG/AutodockTutorial) — An introductory tutorial to AutoDock Vina covering the basics of molecular docking and result analysis.
 
 
 Visit our website at [NanoBiostructuresRG](https://sites.google.com/tec.mx/nanobiostructures)
