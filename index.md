@@ -19,4 +19,4 @@ Welcome. This site showcases the computational projects and tools developed by o
 
 ---
 ### Research Profiles
-[NanoBiostructuresRG](https://sites.google.com/tec.mx/nanobiostructures) **|** [ORCiD](https://orcid.org/0000-0003-2375-131X) **|** [GitHub](https://github.com/NanoBiostructuresRG) **|** [GoogleScholar](https://scholar.google.com/citations?user=vV2vSG8AAAAJ&hl=es&oi=sra)
+[NanoBiostructuresRG](https://sites.google.com/tec.mx/nanobiostructures)  **|**  [ORCiD](https://orcid.org/0000-0003-2375-131X)  **|**  [GitHub](https://github.com/NanoBiostructuresRG)  **|**  [GoogleScholar](https://scholar.google.com/citations?user=vV2vSG8AAAAJ&hl=es&oi=sra)
