@@ -18,4 +18,4 @@ Welcome. This site showcases the computational projects and tools developed by o
 - [AutoDock Tutorial](https://github.com/NanoBiostructuresRG/AutodockTutorial) — An introductory tutorial to AutoDock Vina covering the basics of molecular docking and result analysis.
 
 
-Visit our website at [NanoBiostructuresRG](https://sites.google.com/tec.mx/nanobiostructures)
+**Visit our website at** [NanoBiostructuresRG](https://sites.google.com/tec.mx/nanobiostructures)
