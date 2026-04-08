@@ -11,4 +11,4 @@ For more info, please visit our website at [NanoBiostructuresRG](https://sites.g
 
 ---
 ## License
-This document is distributed under the terms and conditions of the [Creative Commons Attribution (CC BY-NC-ND) license](https://github.com/NanoBiostructuresRG/NanoBiostructuresRG.github.io/blob/main/LICENSE). See the LICENSE file for full details.
+This document is distributed under the terms and conditions of the [Creative Commons Attribution (CC BY-NC-ND 4.0) license](https://github.com/NanoBiostructuresRG/NanoBiostructuresRG.github.io/blob/main/LICENSE). See the LICENSE file for full details.
