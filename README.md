@@ -7,3 +7,4 @@ This document is aimed to introduce the [project portfolio](https://nanobiostruc
 
 For more info, please visit our website at [NanoBiostructuresRG](https://sites.google.com/tec.mx/nanobiostructures)
 
+This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY-NC-ND) license.
