@@ -7,5 +7,6 @@ This document is aimed to introduce the [project portfolio](https://nanobiostruc
 
 For more info, please visit our website at [NanoBiostructuresRG](https://sites.google.com/tec.mx/nanobiostructures)
 
-This project is distributed under the terms and conditions of the [Creative Commons Attribution (CC BY-NC-ND) license](https://github.com/NanoBiostructuresRG/NanoBiostructuresRG.github.io/blob/main/LICENSE).  
-See the LICENSE file for full details.
+---
+## License
+This project is distributed under the terms and conditions of the [Creative Commons Attribution (CC BY-NC-ND) license](https://github.com/NanoBiostructuresRG/NanoBiostructuresRG.github.io/blob/main/LICENSE). See the LICENSE file for full details.
