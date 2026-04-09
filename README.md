@@ -7,7 +7,7 @@ Our research group brings together expertise in artificial intelligence, cheminf
 
 Undergraduate, graduate, and postgraduate researchers are an active part of the group, while students from other institutions can take part in workshops held during summer research programs. 
 
-We maintain an active **GitHub** presence to share practical resources, tutorials, and project portfolios that support our computational workflows and facilitate collaboration with the broader scientific community.
+We maintain an active [GitHub](https://github.com/NanoBiostructuresRG) presence to share practical resources, tutorials, and project portfolios that support our computational workflows and facilitate collaboration with the broader scientific community.
 
 
 This document is aimed to introduce the [project portfolio](https://nanobiostructuresrg.github.io) from our research group.
