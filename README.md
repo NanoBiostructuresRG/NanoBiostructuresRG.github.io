@@ -3,7 +3,8 @@
 ## About Us
 The **Nano]°[Biostructures RG** is part of the Unit of Experimental Medicine within the Institute for Obesity Research at Tecnológico de Monterrey.  
 
-Our research group is composed of a multidisciplinary team with expertise in artificial intelligence, cheminformatics, and multiscale modeling, which we apply to support the identification, prioritization, and evaluation of molecules with therapeutic potential. We focus on computational drug discovery centered on novel molecular scaffolds and their characterization as potential ligands for receptors, enzymes, ion channels, and transporters involved in metabolic regulation, mitochondrial function, and disorders such as obesity. We work closely with experimental teams to combine computational and experimental approaches and generate knowledge with translational potential. 
+Our research group brings together expertise in artificial intelligence, cheminformatics, and multiscale modeling to support the prediction, identification, and prioritization of compounds with therapeutic potential. We focus on computational drug discovery for ligands targeting cell-surface and nuclear receptors, enzymes, ion channels, and transporters involved in metabolic regulation, mitochondrial function, and obesity-related disorders. We work closely with experimental teams to evaluate candidate compounds and to connect computational findings with translational research. 
+
 
 This document is aimed to introduce the [project portfolio](https://nanobiostructuresrg.github.io) from our research group.
 
