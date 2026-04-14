@@ -14,7 +14,7 @@ The Nano]°[Biostructures RG is part of the Unit of Experimental Medicine within
 
 
 ## Tutorials
-- [NumPy Tutorial](https://github.com/NanoBiostructuresRG/NumpyTutorial) — An introductory tutorial to NumPy covering linear algebra, testing, and debugging code in Python.
+- [NumPy Tutorial](https://nanobiostructuresrg.github.io/NumpyTutorial/) — An introductory tutorial to NumPy covering linear algebra, testing, and debugging code in Python.
 - [AutoDock Tutorial](https://github.com/NanoBiostructuresRG/AutodockTutorial) — An introductory tutorial to AutoDock Vina covering the basics of molecular docking and result analysis.
 
 ---
