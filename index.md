@@ -13,6 +13,10 @@ The Nano]°[Biostructures RG is part of the Unit of Experimental Medicine within
 - **CHAMANP** — A framework for curating and hierarchically organizing natural product molecular datasets.
 
 
+## Online Services
+- [LigandHub](https://nanobiostructuresrg.github.io/LigandHub/) — Web interface for ligand preparation and PDBQT generation for molecular docking.
+
+
 ## Tutorials
 - [NumPy Tutorial](https://nanobiostructuresrg.github.io/NumpyTutorial/) — An introductory tutorial to NumPy covering linear algebra, testing, and debugging code in Python.
 - [AutoDock Tutorial](https://nanobiostructuresrg.github.io/AutodockTutorial/) — An introductory tutorial to AutoDock Vina covering the basics of molecular docking and result analysis.
