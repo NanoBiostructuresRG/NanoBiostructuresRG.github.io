@@ -12,10 +12,12 @@ The Nano]°[Biostructures RG is part of the Unit of Experimental Medicine within
 - **MOSAIC** — A machine learning benchmarking toolkit for classification and model selection on tabular data.
 - **CHAMANP** — A framework for curating and hierarchically organizing natural product molecular datasets.
 
+<br>
 
 ## Online Services
 - **[LigandHub](https://nanobiostructuresrg.github.io/LigandHub/)** — Web interface for ligand preparation and PDBQT generation for molecular docking.
 
+<br>
 
 ## Tutorials
 - [NumPy Tutorial](https://nanobiostructuresrg.github.io/NumpyTutorial/) — An introductory tutorial to NumPy covering linear algebra, testing, and debugging code in Python.
