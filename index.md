@@ -15,7 +15,7 @@ The Nano]°[Biostructures RG is part of the Unit of Experimental Medicine within
 <br>
 
 ## Online Services
-- **[LigandHub](https://nanobiostructuresrg.github.io/LigandHub/)** — Web interface for ligand preparation and PDBQT generation for molecular docking.
+- **[LigandHub](https://nanobiostructuresrg.github.io/LigandHub/)** — Web-based ligand preparation and docking output recovery platform.
 
 <br>
 
