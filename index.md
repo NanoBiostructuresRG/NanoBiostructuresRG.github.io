@@ -10,7 +10,7 @@ The Nano]°[Biostructures RG is part of the Unit of Experimental Medicine within
 - **MOLRAPTOR** — A pipeline for fetching, curating, and encoding molecular datasets into machine-learning-ready fingerprints.
 - **NPSCORER** — An RDKit-based implementation of the P. Ertl (2008) algorithm to quantify the NP-likeness of chemical libraries.
 - **MOSAIC** — A machine learning benchmarking toolkit for classification and model selection on tabular data.
-- **CHAMANP** — A framework for curating and hierarchically organizing natural product molecular datasets.
+- **[CHAMANP](https://pypi.org/project/chamanp/)** — Curation and Hierarchical Analysis for Molecular Annotation of Natural Products. DOI: 10.5281/zenodo.20245036.
 
 <br>
 
