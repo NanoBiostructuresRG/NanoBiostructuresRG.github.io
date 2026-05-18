@@ -5,12 +5,13 @@
 
 The Nano]°[Biostructures RG is part of the Unit of Experimental Medicine within the Institute for Obesity Research at Tecnológico de Monterrey. This site showcases the computational projects and tools developed by our group for data-driven molecular discovery in metabolic disorders.
 
+<br>
 
 ## Projects
 - **MOLRAPTOR** — A pipeline for fetching, curating, and encoding molecular datasets into machine-learning-ready fingerprints.
-- **NPSCORER** — An RDKit-based implementation of the P. Ertl (2008) algorithm to quantify the NP-likeness of chemical libraries.
 - **MOSAIC** — A machine learning benchmarking toolkit for classification and model selection on tabular data.
 - **[CHAMANP](https://pypi.org/project/chamanp/)** — Curation and Hierarchical Analysis for Molecular Annotation of Natural Products. [DOI: 10.5281/zenodo.20245036](https://zenodo.org/records/20245037).
+- **[HARMONSMILE](https://pypi.org/project/harmonsmile/)** — Harmonize SMILES Strings for Cheminformatics and Machine Learning. [DOI 10.5281/zenodo.20275498](https://zenodo.org/records/20275499)
 
 <br>
 
@@ -20,8 +21,8 @@ The Nano]°[Biostructures RG is part of the Unit of Experimental Medicine within
 <br>
 
 ## Tutorials
-- [NumPy Tutorial](https://nanobiostructuresrg.github.io/NumpyTutorial/) — An introductory tutorial to NumPy covering linear algebra, testing, and debugging code in Python.
-- [AutoDock Tutorial](https://nanobiostructuresrg.github.io/AutodockTutorial/) — An introductory tutorial to AutoDock Vina covering the basics of molecular docking and result analysis.
+- **[NumPy Tutorial](https://nanobiostructuresrg.github.io/NumpyTutorial/)** — An introductory tutorial to NumPy covering linear algebra, testing, and debugging code in Python.
+- **[AutoDock Tutorial](https://nanobiostructuresrg.github.io/AutodockTutorial/)** — An introductory tutorial to AutoDock Vina covering the basics of molecular docking and result analysis.
 
 ---
 ### Research Profiles
