@@ -18,7 +18,7 @@ email: contreras.flavio@tec.mx
 description: >- # this means to ignore newlines until "baseurl:"
   Project Portfolio<br>
   <br>
-  Copyright (c) 2025 by Flavio F. Contreras-Torres<br>
+  Copyright (c) 2026 by <a href="https://flaviocontreras.link/">Flavio F. Contreras-Torres</a><br>
   Published by Tecnológico de Monterrey
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sites.google.com/tec.mx/nanobiostructures" # the base hostname & protocol for your site, e.g. http://example.com
