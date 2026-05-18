@@ -5,6 +5,8 @@
 
 The Nano]°[Biostructures RG is part of the Unit of Experimental Medicine within the Institute for Obesity Research at Tecnológico de Monterrey. This site showcases the computational projects and tools developed by our group for data-driven molecular discovery in metabolic disorders.
 
+Our logo reflects molecular organization and connectivity within chemical space.
+
 <br>
 
 ## Projects
