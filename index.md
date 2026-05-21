@@ -13,7 +13,6 @@ Our logo reflects molecular organization and connectivity within chemical space.
 - **MOLRAPTOR** — A pipeline for fetching, curating, and encoding molecular datasets into machine-learning-ready fingerprints.
 - **MOSAIC** — A machine learning benchmarking toolkit for classification and model selection on tabular data.
 - **[CHAMANP](https://pypi.org/project/chamanp/)** — Curation and Hierarchical Analysis for Molecular Annotation of Natural Products. [DOI: 10.5281/zenodo.20245036](https://zenodo.org/records/20249166)
-- **[HARMONSMILE](https://pypi.org/project/harmonsmile/)** — Harmonize SMILES Strings for Cheminformatics and Machine Learning. [DOI 10.5281/zenodo.20275498](https://zenodo.org/records/20287617)
 - **[HARMONSMILE](https://pypi.org/project/harmonsmile/)** — Harmonize SMILES Strings for Cheminformatics and Machine Learning. [Docs](https://nanobiostructuresrg.github.io/harmonsmile/) | [DOI 10.5281/zenodo.20275498](https://zenodo.org/records/20287617)
 
 <br>
