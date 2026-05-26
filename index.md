@@ -10,9 +10,13 @@ Our logo reflects molecular organization and connectivity within chemical space.
 <br>
 
 ## Projects
-**[CHAMANP](https://nanobiostructuresrg.github.io/chamanp/)** — Curation and Hierarchical Analysis for Molecular Annotation of Natural Products. [install](https://pypi.org/project/chamanp/) | [DOI: 10.5281/zenodo.20337903](https://zenodo.org/records/20337903)  
-**[HARMONSMILE](https://nanobiostructuresrg.github.io/harmonsmile/)** — Harmonize SMILES Strings for Cheminformatics and Machine Learning. [install](https://pypi.org/project/harmonsmile/) | [DOI: 10.5281/zenodo.20330338](https://zenodo.org/records/20330338)  
-**[MELITE](https://nanobiostructuresrg.github.io/melite/)** — Tabular classification Benchmarking Toolkit for Model Selection with Repeated Stratified Cross-Validation. [install](https://pypi.org/project/melite/) | [DOI: 10.5281/zenodo.20390855](https://zenodo.org/records/20390855)  
+
+**[CHAMANP](https://nanobiostructuresrg.github.io/chamanp/)** — Curation and Hierarchical Analysis for Molecular Annotation of Natural Products. [install](https://pypi.org/project/chamanp/) | [DOI: 10.5281/zenodo.20337903](https://zenodo.org/records/20337903)
+
+**[HARMONSMILE](https://nanobiostructuresrg.github.io/harmonsmile/)** — Harmonize SMILES Strings for Cheminformatics and Machine Learning. [install](https://pypi.org/project/harmonsmile/) | [DOI: 10.5281/zenodo.20330338](https://zenodo.org/records/20330338)
+
+**[MELITE](https://nanobiostructuresrg.github.io/melite/)** — Tabular classification Benchmarking Toolkit for Model Selection with Repeated Stratified Cross-Validation. [install](https://pypi.org/project/melite/) | [DOI: 10.5281/zenodo.20390855](https://zenodo.org/records/20390855)
+
 **MOLRAPTOR** — A pipeline for fetching, curating, and encoding molecular datasets into machine-learning-ready fingerprints. | 
 
 <br>
