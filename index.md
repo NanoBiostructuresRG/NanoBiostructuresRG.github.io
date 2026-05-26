@@ -10,7 +10,7 @@ Our logo reflects molecular organization and connectivity within chemical space.
 <br>
 
 ## Projects
-**MOLRAPTOR** — A pipeline for fetching, curating, and encoding molecular datasets into machine-learning-ready fingerprints.
+**MOLRAPTOR** — A pipeline for fetching, curating, and encoding molecular datasets into machine-learning-ready fingerprints. |
 
 **[CHAMANP](https://nanobiostructuresrg.github.io/chamanp/)** — Curation and Hierarchical Analysis for Molecular Annotation of Natural Products. [install](https://pypi.org/project/chamanp/) | [DOI: 10.5281/zenodo.20337903](https://zenodo.org/records/20337903)
 
