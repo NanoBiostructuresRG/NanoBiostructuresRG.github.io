@@ -34,10 +34,3 @@ Our logo reflects molecular organization and connectivity within chemical space.
 ### Research Profiles
 [Website](https://sites.google.com/tec.mx/nanobiostructures)  |  [ORCiD](https://orcid.org/0000-0003-2375-131X)  |  [GitHub](https://github.com/NanoBiostructuresRG)  |  [GoogleScholar](https://scholar.google.com/citations?user=vV2vSG8AAAAJ&hl=es&oi=sra)
 
-<hr>
-
-<footer>
-  <p>
-    <a href="https://bsky.app/profile/ffct.bsky.social">Bluesky</a>
-  </p>
-</footer>
