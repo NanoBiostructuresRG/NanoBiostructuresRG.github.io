@@ -29,6 +29,7 @@ Our logo reflects molecular organization and connectivity within chemical space.
 ## Tutorials
 - **[NumPy Tutorial](https://nanobiostructuresrg.github.io/NumpyTutorial/)** — An introductory tutorial to NumPy covering linear algebra, testing, and debugging code in Python.
 - **[AutoDock Tutorial](https://nanobiostructuresrg.github.io/AutodockTutorial/)** — An introductory tutorial to AutoDock Vina covering the basics of molecular docking and result analysis.
+- **[Cheminformatics Tutorial](https://nanobiostructuresrg.github.io/CheminformaticsTutorial/)** — An introductory tutorial to Cheminformatics tools with excercises.
 
 ---
 ### Research Profiles
