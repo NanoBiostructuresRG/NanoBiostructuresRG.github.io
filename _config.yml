@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Project Portfolio<br>
   <br>
   Copyright (c) 2026 by <a href="https://flaviocontreras.link/">Flavio F. Contreras-Torres</a><br>
-  
+  All rights reserved.<br>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nanobiostructuresrg.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
