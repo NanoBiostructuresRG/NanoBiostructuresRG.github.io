@@ -19,7 +19,7 @@ Our logo reflects molecular organization and connectivity within chemical space.
 
 **[MELITE](https://nanobiostructuresrg.github.io/melite/)** — Benchmarking Suite for Binary Classification with Repeated Stratified Cross-Validation. [install](https://pypi.org/project/melite/) | [DOI: 10.5281/zenodo.20382752](https://zenodo.org/records/20382752)
 
-**[MOLRAPTOR](https://nanobiostructuresrg.github.io/molraptor/)** — A Pipeline for Fetching, Curating, and Encoding Molecular Datasets into ML-ready Fingerprints. [install](https://pypi.org/project/molraptor/) | [DOI: 10.5281/zenodo.20434420](https://zenodo.org/records/20434421)
+**[MOLRAPTOR](https://nanobiostructuresrg.github.io/molraptor/)** — Molecular Fingerprint Rapid Generator. [install](https://pypi.org/project/molraptor/) | [DOI: 10.5281/zenodo.20434420](https://zenodo.org/records/20434420)
 
 <br>
 
