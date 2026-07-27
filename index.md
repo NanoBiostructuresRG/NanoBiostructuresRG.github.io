@@ -3,7 +3,7 @@
 <!--This line is commented-->
 <img src="assets/logo-adobe.png" alt="logo" style="float: right; width: 160px; margin-left: 20px;">
 
-The Nano]°[Biostructures RG is part of the Unit of Experimental Medicine and Molecular within the Institute for Obesity Research at Tecnológico de Monterrey. This site showcases the compuatational projects and tools developed by our group for data-driven molecular discovery for metabolic disorders.
+The Nano]°[Biostructures RG is part of the Unit of Experimental Medicine and Molecular within the Institute for Obesity Research at Tecnológico de Monterrey. This site showcases the computational projects and tools developed by our group for data-driven molecular discovery for metabolic disorders.
 
 Our logo reflects molecular organization and connectivity within chemical space.
 
@@ -23,10 +23,13 @@ Our logo reflects molecular organization and connectivity within chemical space.
 
 <br>
 
+## Research Software
+- **[ChemVault](https://github.com/NanoBiostructuresRG-lab/chemvault)** — Traceable molecular dataset curation and modelability analysis.
+
+<br>
+
 ## Online Services
 - **[LigandHub](https://nanobiostructuresrg.github.io/LigandHub/)** — Web-based ligand preparation and docking output recovery platform.
-
-- **[ChemVault](https://github.com/NanoBiostructuresRG-lab/chemvault)** — Traceable molecular dataset curation and modelability analysis.
 
 <br>
 
@@ -36,6 +39,6 @@ Our logo reflects molecular organization and connectivity within chemical space.
 - **[AutoDock Tutorial](https://nanobiostructuresrg.github.io/AutodockTutorial/)** — An introductory tutorial to AutoDock Vina covering the basics of molecular docking and result analysis.
 
 ---
-### Research Profiles
+### Academic Profiles
 [Website](https://sites.google.com/tec.mx/nanobiostructures)  |  [ORCiD](https://orcid.org/0000-0003-2375-131X)  |  [GitHub](https://github.com/NanoBiostructuresRG)  |  [GoogleScholar](https://scholar.google.com/citations?user=vV2vSG8AAAAJ&hl=es&oi=sra)
 
