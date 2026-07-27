@@ -11,20 +11,32 @@ Our logo reflects molecular organization and connectivity within chemical space.
 
 ## Python Packages
 
-**[CHAMANP](https://nanobiostructuresrg.github.io/chamanp/)** — Curation and Hierarchical Analysis for Molecular Annotation of Natural Products. [install](https://pypi.org/project/chamanp/) | [DOI: 10.5281/zenodo.20337903](https://zenodo.org/records/20337903)
+**[CHAMANP](https://nanobiostructuresrg.github.io/chamanp/)** — Natural Product Molecular Annotation and Curation Toolkit. [install](https://pypi.org/project/chamanp/) | [DOI: 10.5281/zenodo.20337903](https://zenodo.org/records/20337903)
 
-**[HARMONSMILE](https://nanobiostructuresrg.github.io/harmonsmile/)** — Harmonize SMILES Strings for Cheminformatics and Machine Learning. [install](https://pypi.org/project/harmonsmile/) | [DOI: 10.5281/zenodo.20330338](https://zenodo.org/records/20330338)
+**[HARMONSMILE](https://nanobiostructuresrg.github.io/harmonsmile/)** — Molecular Structure Harmonizer. [install](https://pypi.org/project/harmonsmile/) | [DOI: 10.5281/zenodo.20330338](https://zenodo.org/records/20330338)
 
-**[HDDFLYZER](https://nanobiostructuresrg.github.io/hddflyzer/)** — Traceable, reproducible molecular descriptor-space workflows for CLI and Python. [install](https://pypi.org/project/hddflyzer/) | [DOI: 10.5281/zenodo.20707295](https://zenodo.org/records/20707295)
+**[HDDFLYZER](https://nanobiostructuresrg.github.io/hddflyzer/)** — High-Dimensional Descriptor-based Feature Space Analyzer. [install](https://pypi.org/project/hddflyzer/) | [DOI: 10.5281/zenodo.20707295](https://zenodo.org/records/20707295)
 
-**[MELITE](https://nanobiostructuresrg.github.io/melite/)** — Multi-model Classifier Evaluator. | [install](https://pypi.org/project/melite/) | [DOI: 10.5281/zenodo.20382752](https://zenodo.org/records/20382752)
+**[MELITE](https://nanobiostructuresrg.github.io/melite/)** — Multi-model Classifier Evaluator. | [Install](https://pypi.org/project/melite/) | [DOI: 10.5281/zenodo.20382752](https://zenodo.org/records/20382752)
 
-**[MOLRAPTOR](https://nanobiostructuresrg.github.io/molraptor/)** — Molecular Fingerprint Rapid Generator. | [install](https://pypi.org/project/molraptor/) | [DOI: 10.5281/zenodo.20434420](https://zenodo.org/records/20434420)
+**[MOLRAPTOR](https://nanobiostructuresrg.github.io/molraptor/)** — Molecular Fingerprint Rapid Generator. | [Install](https://pypi.org/project/molraptor/) | [DOI: 10.5281/zenodo.20434420](https://zenodo.org/records/20434420)
+
+<br>
+
+## Python Packages
+
+| Package | Description | Resources |
+|---|---|---|
+| **[CHAMANP](https://nanobiostructuresrg.github.io/chamanp/)** | Natural Product Molecular Annotation and Curation Toolkit | [PyPI](https://pypi.org/project/chamanp/) · [DOI](https://zenodo.org/records/20337903) |
+| **[HARMONSMILE](https://nanobiostructuresrg.github.io/harmonsmile/)** | Molecular Structure Harmonizer | [PyPI](https://pypi.org/project/harmonsmile/) · [DOI](https://zenodo.org/records/20330338) |
+| **[HDDFLYZER](https://nanobiostructuresrg.github.io/hddflyzer/)** | High-Dimensional Descriptor-based Feature Space Analyzer | [PyPI](https://pypi.org/project/hddflyzer/) · [DOI](https://zenodo.org/records/20707295) |
+| **[MELITE](https://nanobiostructuresrg.github.io/melite/)** | Multi-model Classifier Evaluator | [PyPI](https://pypi.org/project/melite/) · [DOI](https://zenodo.org/records/20382752) |
+| **[MOLRAPTOR](https://nanobiostructuresrg.github.io/molraptor/)** | Molecular Fingerprint Rapid Generator | [PyPI](https://pypi.org/project/molraptor/) · [DOI](https://zenodo.org/records/20434420) |
 
 <br>
 
 ## Local Application
-- **[ChemVault](https://github.com/NanoBiostructuresRG-lab/chemvault)** — Traceable molecular dataset curation and modelability analysis.
+- **[ChemVault](https://github.com/NanoBiostructuresRG-lab/chemvault)** — Molecular Dataset Management and Curation System.
 
 <br>
 
