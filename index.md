@@ -17,7 +17,7 @@ Our logo reflects molecular organization and connectivity within chemical space.
 
 **[HDDFLYZER](https://nanobiostructuresrg.github.io/hddflyzer/)** — Traceable, reproducible molecular descriptor-space workflows for CLI and Python. [install](https://pypi.org/project/hddflyzer/) | [DOI: 10.5281/zenodo.20707295](https://zenodo.org/records/20707295)
 
-**[MELITE](https://nanobiostructuresrg.github.io/melite/)** — Benchmarking Suite for Binary Classification with Repeated Stratified Cross-Validation. [install](https://pypi.org/project/melite/) | [DOI: 10.5281/zenodo.20382752](https://zenodo.org/records/20382752)
+**[MELITE](https://nanobiostructuresrg.github.io/melite/)** — Multi-model Classifier Evaluator. [install](https://pypi.org/project/melite/) | [DOI: 10.5281/zenodo.20382752](https://zenodo.org/records/20382752)
 
 **[MOLRAPTOR](https://nanobiostructuresrg.github.io/molraptor/)** — Molecular Fingerprint Rapid Generator. [install](https://pypi.org/project/molraptor/) | [DOI: 10.5281/zenodo.20434420](https://zenodo.org/records/20434420)
 
