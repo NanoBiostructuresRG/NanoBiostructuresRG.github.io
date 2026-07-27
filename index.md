@@ -26,7 +26,7 @@ Our logo reflects molecular organization and connectivity within chemical space.
 ## Online Services
 - **[LigandHub](https://nanobiostructuresrg.github.io/LigandHub/)** — Web-based ligand preparation and docking output recovery platform.
 
-- **[ChemVault](https://github.com/NanoBiostructuresRG-lab/chemvault)** — Streamlit-app for building, curating, and exporting molecular chemical datasets.
+- **[ChemVault](https://github.com/NanoBiostructuresRG-lab/chemvault)** — Traceable molecular dataset curation and modelability analysis.
 
 <br>
 
