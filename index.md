@@ -3,7 +3,7 @@
 <!--This line is commented-->
 <img src="assets/logo-adobe.png" alt="logo" style="float: right; width: 160px; margin-left: 20px;">
 
-The Nano]°[Biostructures RG is part of the Unit of Experimental Medicine and Molecular within the Institute for Obesity Research at Tecnológico de Monterrey. This site showcases the computational projects and tools developed by our group for data-driven molecular discovery for metabolic disorders.
+The Nano]°[Biostructures Research Group is part of Experimental and Molecular Medicine Unit at the Institute for Obesity Research, Tecnologico de Monterrey. Our research group combines computational chemistry, cheminformatics, molecular modeling, and scientific software development to investigate therapeutic targets and bioactive compounds relevant to metabolic regulation, mitochondrial function, obesity, and related disorders. This portfolio presents the current projects developed to support reproducible and traceable molecular research.
 
 Our logo reflects molecular organization and connectivity within chemical space.
 
@@ -35,7 +35,7 @@ Our logo reflects molecular organization and connectivity within chemical space.
 
 ## Tutorials
 - **[NumPy Tutorial](https://nanobiostructuresrg.github.io/NumpyTutorial/)** — An introductory tutorial to NumPy covering linear algebra, testing, and debugging code in Python.
-- **[Cheminformatics Tutorial](https://nanobiostructuresrg.github.io/CheminformaticsTutorial/)** — An introductory tutorial to Cheminformatics tools with excercises.
+- **[ChemInformatics Tutorial](https://nanobiostructuresrg.github.io/CheminformaticsTutorial/)** — An introductory tutorial to Cheminformatics tools with excercises.
 - **[AutoDock Tutorial](https://nanobiostructuresrg.github.io/AutodockTutorial/)** — An introductory tutorial to AutoDock Vina covering the basics of molecular docking and result analysis.
 
 ---
