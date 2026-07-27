@@ -9,7 +9,7 @@ Our logo reflects molecular organization and connectivity within chemical space.
 
 <br>
 
-## Projects
+## Python Packages
 
 **[CHAMANP](https://nanobiostructuresrg.github.io/chamanp/)** — Curation and Hierarchical Analysis for Molecular Annotation of Natural Products. [install](https://pypi.org/project/chamanp/) | [DOI: 10.5281/zenodo.20337903](https://zenodo.org/records/20337903)
 
@@ -23,7 +23,7 @@ Our logo reflects molecular organization and connectivity within chemical space.
 
 <br>
 
-## Research Software
+## Local Application
 - **[ChemVault](https://github.com/NanoBiostructuresRG-lab/chemvault)** — Traceable molecular dataset curation and modelability analysis.
 
 <br>
@@ -39,6 +39,6 @@ Our logo reflects molecular organization and connectivity within chemical space.
 - **[AutoDock Tutorial](https://nanobiostructuresrg.github.io/AutodockTutorial/)** — An introductory tutorial to AutoDock Vina covering the basics of molecular docking and result analysis.
 
 ---
-### Academic Profiles
+### Profiles & Links
 [Website](https://sites.google.com/tec.mx/nanobiostructures)  |  [ORCiD](https://orcid.org/0000-0003-2375-131X)  |  [GitHub](https://github.com/NanoBiostructuresRG)  |  [GoogleScholar](https://scholar.google.com/citations?user=vV2vSG8AAAAJ&hl=es&oi=sra)
 
