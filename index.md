@@ -22,12 +22,12 @@ Our logo reflects molecular organization and connectivity within chemical space.
 <br>
 
 ## Local Application
-- **[ChemVault](https://github.com/NanoBiostructuresRG-lab/chemvault)** — Molecular Dataset Management and Curation Application.
+- **[ChemVault](https://github.com/NanoBiostructuresRG-lab/chemvault)** — Traceable Molecular Dataset Curation Application.
 
 <br>
 
 ## Online Services
-- **[LigandHub](https://nanobiostructuresrg.github.io/LigandHub/)** — Web-based Ligand Preparation and Docking Output Recovery Platform.
+- **[LigandHub](https://nanobiostructuresrg.github.io/LigandHub/)** — Cheminformatics Workflow Platform.
 
 <br>
 
