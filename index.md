@@ -15,8 +15,8 @@ Our logo reflects molecular organization and connectivity within chemical space.
 |---|---|---|
 | **[CHAMANP](https://nanobiostructuresrg.github.io/chamanp/)** | Natural Product Molecular Annotation and Curation Toolkit | [PyPI](https://pypi.org/project/chamanp/) · [Zenodo](https://zenodo.org/records/20337903) |
 | **[HARMONSMILE](https://nanobiostructuresrg.github.io/harmonsmile/)** | Molecular Structure Harmonizer | [PyPI](https://pypi.org/project/harmonsmile/) · [Zenodo](https://zenodo.org/records/20330338) |
-| **[HDDFLYZER](https://nanobiostructuresrg.github.io/hddflyzer/)** | High-Dimensional Descriptor-based Feature Space Analyzer | [PyPI](https://pypi.org/project/hddflyzer/) · [Zenodo](https://zenodo.org/records/20707295) |
-| **[MELITE](https://nanobiostructuresrg.github.io/melite/)** | Multi-model Classifier Evaluator | [PyPI](https://pypi.org/project/melite/) · [Zenodo](https://zenodo.org/records/20382752) |
+| **[HDDFLYZER](https://nanobiostructuresrg.github.io/hddflyzer/)** | High-Dimensional Descriptor-Based Feature Space Analyzer | [PyPI](https://pypi.org/project/hddflyzer/) · [Zenodo](https://zenodo.org/records/20707295) |
+| **[MELITE](https://nanobiostructuresrg.github.io/melite/)** | Multi-Model Classifier Evaluator | [PyPI](https://pypi.org/project/melite/) · [Zenodo](https://zenodo.org/records/20382752) |
 | **[MOLRAPTOR](https://nanobiostructuresrg.github.io/molraptor/)** | Molecular Fingerprint Rapid Generator | [PyPI](https://pypi.org/project/molraptor/) · [Zenodo](https://zenodo.org/records/20434420) |
 
 <br>
