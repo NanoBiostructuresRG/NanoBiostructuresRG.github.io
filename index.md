@@ -38,5 +38,5 @@ Our logo reflects molecular organization and connectivity within chemical space.
 
 ---
 ### Profiles & Links
-[Website](https://sites.google.com/tec.mx/nanobiostructures)  |  [ORCiD](https://orcid.org/0000-0003-2375-131X)  |  [GitHub](https://github.com/NanoBiostructuresRG)  |  [GoogleScholar](https://scholar.google.com/citations?user=vV2vSG8AAAAJ&hl=es&oi=sra)
+[Website](https://sites.google.com/tec.mx/nanobiostructures)  |  [ORCiD](https://orcid.org/0000-0003-2375-131X)  |  [GoogleScholar](https://scholar.google.com/citations?user=vV2vSG8AAAAJ&hl=es&oi=sra)  |  [GitHub](https://github.com/NanoBiostructuresRG)  |  [Bluesky](https://bsky.app/profile/flaviocontreras.link)  |  [Gravatar](https://flaviocontreras.link/)
 
