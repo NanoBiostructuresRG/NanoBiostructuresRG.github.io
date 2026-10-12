@@ -22,7 +22,7 @@ Our logo reflects molecular organization and connectivity within chemical space.
 <br>
 
 ## Local Application
-- **[ChemVault](https://github.com/NanoBiostructuresRG-lab/chemvault)** — Target-Centered Bioactivity Dataset Curation from PubChem.
+- **[ChemVault](https://github.com/NanoBiostructuresRG-lab/chemvault)** — Target-Centered Bioactivity Dataset Construction from PubChem.
 
 <br>
 
