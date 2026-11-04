@@ -3,7 +3,9 @@
 <!--This line is commented-->
 <img src="assets/logo-adobe.png" alt="logo" style="float: right; width: 160px; margin-left: 20px;">
 
-The Nano]°[Biostructures Research Group is part of Experimental and Molecular Medicine Unit at the Institute for Obesity Research, Tecnologico de Monterrey. Our research group combines computational chemistry, cheminformatics, molecular modeling, and scientific software development to investigate therapeutic targets and bioactive compounds relevant to metabolic regulation, mitochondrial function, obesity, and related disorders. This portfolio presents the current projects developed to support reproducible and traceable molecular research.
+The Nano]°[Biostructures Research Group is part of Experimental and Molecular Medicine Unit at the Institute for Obesity Research, Tecnologico de Monterrey. Our research group combines computational chemistry, cheminformatics, molecular modeling, and scientific software development to investigate therapeutic targets and bioactive compounds relevant to metabolic regulation, mitochondrial function, obesity, and related disorders. 
+
+This portfolio presents our scientific software and related projects, including open-source tools developed to support reproducible and traceable molecular research. We also participate in pyOpenSci's community-led software peer-review process through package submission and editorial service.
 
 Our logo reflects molecular organization and connectivity within chemical space.
 
@@ -30,14 +32,14 @@ Our logo reflects molecular organization and connectivity within chemical space.
 <br>
 
 ## Online Services
-- **[LigandHub](https://nanobiostructuresrg.github.io/LigandHub/)** — Cheminformatics Workflow Platform.
+- **[LigandHub](https://nanobiostructuresrg.github.io/LigandHub/)** — Cheminformatics Workflow Platform (under development).
 
 <br>
 
 ## Tutorials
-- **[NumPy Tutorial](https://nanobiostructuresrg.github.io/NumpyTutorial/)** — An introductory tutorial to NumPy covering linear algebra, testing, and debugging code in Python.
-- **[ChemInformatics Tutorial](https://nanobiostructuresrg.github.io/CheminformaticsTutorial/)** — An introductory tutorial to Cheminformatics tools with excercises.
-- **[AutoDock Tutorial](https://nanobiostructuresrg.github.io/AutodockTutorial/)** — An introductory tutorial to AutoDock Vina covering the basics of molecular docking and result analysis.
+- **[AutoDock](https://nanobiostructuresrg.github.io/AutodockTutorial/)** — An introductory tutorial to AutoDock Vina covering the basics of molecular docking and result analysis.
+- **[ChemInformatics](https://nanobiostructuresrg.github.io/CheminformaticsTutorial/)** — An introductory tutorial to Cheminformatics tools with excercises.
+- **[NumPy](https://nanobiostructuresrg.github.io/NumpyTutorial/)** — An introductory tutorial to NumPy covering linear algebra, testing, and debugging code in Python.
 
 ---
 ### Profiles & Links
